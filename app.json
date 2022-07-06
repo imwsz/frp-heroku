@@ -1,0 +1,9 @@
+{
+  "name": "frp",
+  "description": "Deploy frp to Heroku.",
+  "keywords": [
+    "frp"
+  ],
+  "repository": "https://github.com/imwsz/frp-heroku",
+  "stack": "container"
+}
